@@ -11,7 +11,7 @@ Usage
 
 
 
-# README
+# READme
 
 Summer 2024 Software Engineering Internship Data Fetcher
 This Python script scrapes data about summer 2024 software engineering internships from various company websites.
